@@ -2,7 +2,7 @@
 layout: page
 title: Social Behavior
 description: Effectively modeling and quantifying social behavior
-img: assets/img/social/mice.png
+img: assets/img/mice.png
 importance: 1
 category: Work
 ---
