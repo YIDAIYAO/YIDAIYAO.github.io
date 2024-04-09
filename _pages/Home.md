@@ -6,7 +6,7 @@ subtitle: Wu Tsai Institute at Yale University
 
 profile:
   align: right
-  image: slider7001400/Logo_1.png
+  image: IMG_3032.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Wu Tsai Institute</p>
