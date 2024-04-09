@@ -14,10 +14,10 @@ In our recent work, we model social behavior as a hierarchical set of motifs, we
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/social/hh.png" title="hierarchical clustering" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/hh.png" title="hierarchical clustering" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/social/mice.png" title="mice" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mice.png" title="mice" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
