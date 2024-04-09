@@ -3,8 +3,8 @@ layout: page
 title: Social Behavior
 description: Effectively modeling and quantifying social behavior
 img: assets/img/social/mice.png
-importance: 2
-category: Current Interests
+importance: 1
+category: Work
 ---
 Studying the neural mechanisms of social behaviors requires effectively modeling and quantifying social behavior. Modeling behavior during social interactions remains a significant challenge: the same social behavior may have varied patterns, while distinct social behaviors may exhibit identical frame-level information. Although manual annotation of social behavior can be used to provide a quantitative benchmark for classification, this characterization is biased by the quality of the manual labels, and the results cannot be used to further subdivide the behaviors into interpretable data-driven motifs.
 
