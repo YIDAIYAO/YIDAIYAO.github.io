@@ -3,8 +3,8 @@ layout: page
 title: Disentangled Multi-subject Behavioral Representations
 description: NSF funded project
 img: assets/img/mice.png
-importance: 4
-category: Current Interests
+importance: 2
+category: Work
 ---
 [(see funding)]({{ site.url }}{{ site.baseurl }}/fundings) 
 Cognitive tasks such as decision-making are performed by different subjects in different ways. An important manifestation of this subject-to-subject variability is through spontaneous movements during task performance. For example, people may tap the floor or move their eyes while learning a cognitive task; similarly, mice display idiosyncratic whisker, facial, or other movements.
